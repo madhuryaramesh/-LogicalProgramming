@@ -1,0 +1,14 @@
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.exe
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.deps.json
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.runtimeconfig.json
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.runtimeconfig.dev.json
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.dll
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\bin\Debug\netcoreapp3.1\LogicalProgramming.pdb
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.csproj.AssemblyReference.cache
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.AssemblyInfoInputs.cache
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.AssemblyInfo.cs
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.csproj.CoreCompileInputs.cache
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.dll
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.pdb
+E:\bridgelabz\.net\Assignments\LogicalProgramming\LogicalProgramming\obj\Debug\netcoreapp3.1\LogicalProgramming.genruntimeconfig.cache
